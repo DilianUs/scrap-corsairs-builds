@@ -1,5 +1,15 @@
 # Versiones de Scrap Corsairs
 
+## 1.7 (2026-11-23)
+
+Versión 1.7: ¡barco nuevo!
+- El barco de la tripulación es nuevo: casco, timón y mástiles nuevos, del mismo tamaño que el anterior.
+- Las velas se despliegan desde las vergas al izarlas y se recogen al arriarlas.
+- Mesa de trabajo y horno fijos en la cubierta (ya no se puede colocar ninguna estación a bordo: se quedaba flotando en el mar).
+- Se mantienen el ancla, el altar, el almacén, la pasarela, las escalas y los cuatro cañones.
+- Cubierta casi lisa, con escaleritas para subir al timón y una borda que se puede saltar.
+- Tus partidas guardadas siguen igual.
+
 ## 1.6 (2026-11-23)
 
 Versión 1.6
